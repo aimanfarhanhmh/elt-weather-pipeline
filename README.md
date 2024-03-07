@@ -1,2 +1,4 @@
-# my-public-transport-ridership
-Data analytics pipeline for Malaysian public transport ridership.
+# elt-weather-pipeline
+Data analytics pipeline for Malaysian general 7-day weather forecast.
+
+documentation WIP
